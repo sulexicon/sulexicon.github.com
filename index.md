@@ -7,7 +7,11 @@ tagline: Supporting tagline
 
 Hi,
 
-I'm Di Wang, successfully complete an master degree, graduated from NEFU in 2018.
+I'm Di Wang, successfully complete a master degree, graduated from NEFU in 2018.
+
+
+
+
 
 
 - Open source developer [@github](https://github.com/sulexicon)
@@ -21,10 +25,11 @@ You are welcome to contact me via:
 
 Email: coder.sudo#outlook.com (replace # with @ please)
 
-Github: [@mrmiywj](https://github.com/sulexicon)
+Github: [@sulexicon](https://github.com/sulexicon)
 
 
-#You can find my resume [here]({{BASE_PATH}}/resume.pdf).
+
+
 
 > Recent Post:
 
